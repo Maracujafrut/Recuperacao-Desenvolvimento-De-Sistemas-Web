@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Recuperacao-Desenvolvimento-De-Sistemas-Web.props" />
+</Project>
